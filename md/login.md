@@ -12,6 +12,6 @@
 
 <img src="img/06.png" width="800px">
 
-* ログイン失敗時は success を表示します。
+* ログイン失敗時は failure を表示します。
 
 <img src="img/07.png" width="800px">
