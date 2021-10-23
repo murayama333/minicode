@@ -11,6 +11,6 @@
 6,Ice coffee,100
 ```
 
-* `menu.txt` ファイルを参照してメニュー画面を表示します。
+* `menu.csv` ファイルを参照してメニュー画面を表示します。
 
 <img src="img/12.png" width="800px">
