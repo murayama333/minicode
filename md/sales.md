@@ -15,8 +15,8 @@ $sales = [
     ["2021/12/01", "Company B", 40000] 
 ];
 ```
-
 ---
+
 
 ## データ2 - CSV
 
@@ -61,3 +61,9 @@ sqlite> select * from sales;
 5|2021/12/01|Company B|40000
 sqlite> 
 ```
+
+---
+
+## 新規レコード作成
+
+<img src="img/15.png" width="800px">
